@@ -1,0 +1,23 @@
+{
+  "name": "staryplan",
+  "version": "1.0.0",
+  "description": "Przywraca stary plan ZSMEiE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noodle",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "0.0.265",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.4",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.265",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

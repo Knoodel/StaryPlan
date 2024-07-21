@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Stary Plan",
+  "version": "1.0.0",
+  "description": "Przywraca stary plan ZSMEiE",
+  "icons": {
+    "48": "src/images/icon-48.png",
+    "128": "src/images/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://zsmeie.torun.pl/plan/"],
+      "js": ["dist/bundle.js"]
+    }
+  ],
+  "permissions": ["storage"]
+}
