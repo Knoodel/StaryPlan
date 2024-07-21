@@ -5,7 +5,7 @@ Przywraca stary plan ZSMEiE.
 + Dodaje z powrotem plany nauczycieli
 + Automatycznie aktualizuje powyższe plany
 
-# Instlacja
+# Instalacja
 **Google Chrome / Microsoft Edge**
 1. Pobierz repozytorium jako ZIP z GitHub.
 1. Rozpakuj projekt.
